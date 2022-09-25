@@ -1,0 +1,25 @@
+{
+  "name": "translator-flutter-app",
+  "version": "1.0.0",
+  "description": "Web Scraper for the Translation Flutter App",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DotNickCore/Translator-Flutter-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DotNickCore/Translator-Flutter-App/issues"
+  },
+  "homepage": "https://github.com/DotNickCore/Translator-Flutter-App#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
